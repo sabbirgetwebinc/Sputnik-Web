@@ -1,0 +1,5 @@
+{
+  "name": "Sputnik Web",
+  "description": "A web-based OSINT dashboard for analyzing IPs, Domains, Hashes, and URLs using popular threat intelligence services, enhanced with Gemini AI analysis.",
+  "requestFramePermissions": []
+}
